@@ -33,3 +33,6 @@ Thumbs.db
 *.bak
 *.swp
 *.tmp
+Git/
+__pycache__/
+*.pyc
